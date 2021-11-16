@@ -25,6 +25,7 @@ git config --global user.name "Khen Solomon Lethil"
 $ git config --global user.email khensolomon@gmail.com
 
 
+
 ```properties
 ./install.sh -i ubuntu -N mojave
 
