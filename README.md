@@ -21,7 +21,7 @@ Gnome theme
 ```
 
 ?
-git config --global user.name "Khen Solomon Lethil"
+git config --global user.name "khensolomon"
 $ git config --global user.email khensolomon@gmail.com
 
 
