@@ -32,8 +32,6 @@ sudo apt install flatpak
 sudo apt install gnome-software-plugin-flatpak
 ```
 
-
-
 > Right-click new document
 
 ```bash
