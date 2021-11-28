@@ -1,4 +1,5 @@
 # lenome
+
 Gnome theme
 
 ```css
@@ -24,8 +25,6 @@ Gnome theme
 git config --global user.name "khensolomon"
 $ git config --global user.email khensolomon@gmail.com
 
-
-
 ```properties
 ./install.sh -i ubuntu -N mojave
 
@@ -41,8 +40,7 @@ cd ~/Templates/Text
 touch document
 ```
 
-
-> Set solid background Color 
+> Set solid background Color
 
 ```properties
 gsettings set org.gnome.desktop.background picture-uri none
@@ -51,8 +49,6 @@ gsettings set org.gnome.desktop.background color-shading-type 'solid'
 ```
 
 More: https://andrewmccarthy.ie/setting-a-blank-desktop-background-in-gnome.html
-
-
 
 ## Application and extension
 
