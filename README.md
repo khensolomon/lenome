@@ -15,7 +15,7 @@ Gnome theme
   /*background-color: rgba(40,40,40,0.88);*/
   background-color: transparent;
   font-weight: bold;
-  height: 1.86em;
+  height: 1.83em;
   font-feature-settings: "tnum";
   transition-duration: 250ms; 
 }
